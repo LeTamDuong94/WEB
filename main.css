@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(166, 204, 89);
+    background-image: url(hinhnen.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.cha{
+    background-color: rgb(133, 192, 243);
+    display: flex;
+    margin: auto;
+    width: 70%;
+}
+.Nhom1{
+    background-color: azure;
+    padding: 30px;
+    width: 40%;
+    text-align:left;
+}
+.Nhom2{
+    background-color: rgb(245, 232, 211);
+    padding: 30px;
+    width: 60%;
+    text-align: center;
+}
+.avatar{
+    width: 300px;
+    border-radius: 150px;
+}
+.con{
+    display: inline-block;
+    vertical-align: middle;
+}
+.giaidoan{
+    background-color: aquamarine;
+}
+.giaidoan1{
+    height: 100px;
+    display: inline-block;
+    vertical-align: middle;
+    width: 20%;
+}
+.giaidoan2{
+    display: inline-block;
+    vertical-align: middle;
+    width: 50%;
+}
+.giaidoan3{
+    display: inline-block;
+    vertical-align: middle;
+    width: 20%;
+}
